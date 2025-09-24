@@ -22,8 +22,8 @@ The current version uses WAN 2.2 as a base model. The WAN 2.2 I2V model is used 
 
 # How to convert 2D images to 3D
 
-- Download example workflow (coming soon)
+- See example i2v workflow in workflow folder
 
 # How to generate 3D images from a text prompt
 
-- Download example workflow (coming soon)
+- See example t2v workflow in workflow folder
