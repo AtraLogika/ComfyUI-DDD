@@ -1,5 +1,5 @@
 # ComfyUI-DDD
-Generate 3D pictures with AI or convert a 2D photo to 3D
+Generate 3D pictures with AI or convert a 2D photo to 3D  
 Comfyui-DDD lets you convert 2D images to 3D, or generate 3D images (spatial images) from text.
 
 # Features
