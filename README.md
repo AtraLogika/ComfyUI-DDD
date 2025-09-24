@@ -18,6 +18,7 @@ The current version uses WAN 2.2 as a base model. The WAN 2.2 I2V model is used 
 
 - Place comfyui-ddd.py in your ComfyUI custom_nodes folder
 - Download [high lora] and [low lora] and place in your loras folder
+  https://huggingface.co/AtraLogika/ComfyUI-DDD/tree/main
 
 # How to convert 2D images to 3D
 
