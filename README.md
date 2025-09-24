@@ -6,6 +6,7 @@ Comfyui-DDD lets you convert 2D images to 3D, or generate 3D images (spatial ima
 
 - Convert 2D images to 3D images (3D-I2V)
 - Generate 3D images with a text prompt (3D-T2V)
+- Images can be SBS (view with a VR headset or compatible 3D screen) or suitable for cross-eyed viewing
 - Works with 12 GB VRAM and 32 GB ram
 - Does not require any depth estimation model such as Midas, AnyDepth, etc.
 - Does not require extra python packages
