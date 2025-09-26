@@ -17,7 +17,7 @@ The current version uses WAN 2.2 as a base model. The WAN 2.2 I2V model is used 
 
 # Installing
 
-- Place comfyui-ddd.py in your ComfyUI custom_nodes folder
+- git clone this repo in your custom_nodes folder or manually place the .py files in a ComfyUI-DDD folder in your custom_nodes folder
 - Download [High and Low loras](https://huggingface.co/AtraLogika/ComfyUI-DDD/tree/main) and place them in your loras folder
 
 
